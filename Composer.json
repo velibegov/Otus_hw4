@@ -1,0 +1,10 @@
+{
+"name": "rvelibegov/otus_hw4",
+
+"autoload": {
+    "psr-4": {
+      "Server\\": "src",
+	  "Client\\": "src"
+    }
+  }
+}
